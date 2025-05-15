@@ -1,8 +1,9 @@
 
 # unionlab-research
 
-This repository is a personal research environment based on selected modules from [Union Labs](https://github.com/unionlabs/union), licensed under Apache 2.0.
+# Union Docs - Research Copy
 
-All reused code retains original authorship and license requirements.
+This repository includes selected documentation files from [Union Labs](https://github.com/unionlabs/union), licensed under Apache-2.0.
 
-This project is **not affiliated with Union Labs**, and is for personal academic exploration only.
+This is a non-commercial, personal research repository.  
+Original license and attribution retained as per Apache-2.0.
